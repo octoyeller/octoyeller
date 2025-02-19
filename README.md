@@ -4,7 +4,7 @@ No, I do not speak in common language.
 
 C++ stands for pacman. You use python because its the easiest langauge you know. I use C++ because its the only language I know.
 
-You checkout:
+Checkout:
 - Spinfetch
 - Daga-Rename
 
