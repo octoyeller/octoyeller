@@ -1,16 +1,14 @@
-## Hi there 👋
+All praise the octopus!
 
-<!--
-**octoyeller/octoyeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No, I do not speak in common language.
 
-Here are some ideas to get you started:
+C++ stands for pacman. You use python because its the easiest langauge you know. I use C++ because its the only language I know.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You checkout:
+- Spinfetch
+- Daga-Rename
+
+
+
+
+AI = automated idiot and its use for creative work shall be illegal.
